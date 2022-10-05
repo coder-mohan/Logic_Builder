@@ -17,3 +17,6 @@
 ### Link: http://orac.amt.edu.au/cgi-bin/train/problem.pl?set=simple3&problemid=416
 
 ### 8. Connect N ropes with minimum cost using Priority Queue
+
+### 9. Minimum Cost of ropes 
+### Link: https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1#
